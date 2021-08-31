@@ -13,3 +13,6 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 https://git-scm.com/doc
+
+http://github.com - automatic!
+[GitHub](http://github.com)
